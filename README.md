@@ -1,0 +1,1 @@
+the page will be use it its heading as a home page.
